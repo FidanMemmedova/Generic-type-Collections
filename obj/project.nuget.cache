@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rVs69WIDTYfmR7aAmGk3bPgbSJInhot6zGexy73XTXL/3ii6VxJRQvibX5rSPB1dUIWcZAwXLOexBxGl7EfYEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\HOMETASK\\Generic type, Collections\\Generic type, Collections.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\documentformat.openxml\\2.16.0\\documentformat.openxml.2.16.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
